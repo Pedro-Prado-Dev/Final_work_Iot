@@ -21,6 +21,7 @@ class MyTopo( Topo ):
         h6 = self.addHost('h6')
         h7 = self.addHost('h7') 
         h8 = self.addHost('h8')
+        
         h9 = self.addHost('h9')
         
         s1 = self.addSwitch( 's1' )
